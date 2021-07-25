@@ -1039,8 +1039,6 @@
 
 "placepage_add_stop" = "Додати зупинку";
 
-"preloader_viator_button" = "Докладніше";
-
 "start_from_my_position" = "Почати з";
 
 "profile_authorization_error" = "Ой, трапилася помилка. Спробуйте увійти знову.";
@@ -1094,8 +1092,6 @@
 "phone_number" = "Номер телефону";
 
 "profile" = "Профіль OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Шукати схожі готелі";
 
 "bookmarks_detect_title" = "Виявлено нові файли";
 
@@ -1394,8 +1390,6 @@
 "downloader_updating_ios" = "Оновлення";
 
 "downloader_loading_ios" = "Завантаження";
-
-"key_information_title" = "Ключова інформація";
 
 "enable_screen_sleep" = "Дозволити екрану вимкнутись";
 

@@ -610,7 +610,6 @@
 	<string name="placepage_remove_stop">Видалити</string>
 	<string name="planning_route_remove_title">Перетягніть сюди, щоб видалити</string>
 	<string name="placepage_add_stop">Додати зупинку</string>
-	<string name="preloader_viator_button">Докладніше</string>
 	<string name="start_from_my_position">Почати з</string>
 	<string name="profile_authorization_error">Ой, трапилася помилка. Спробуйте увійти знову.</string>
 	<string name="dialog_error_storage_title">Не вдалося отримати доступ до сховища</string>
@@ -641,7 +640,6 @@
 	<string name="please_wait">Будь ласка, зачекайте…</string>
 	<string name="phone_number">Номер телефону</string>
 	<string name="profile">Профіль OpenStreetMap</string>
-	<string name="place_page_search_similar_hotel">Шукати схожі готелі</string>
 	<string name="bookmarks_detect_title">Виявлено нові файли</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">%d файл був знайдений. Ви побачите його після перетворення.</item>
@@ -809,7 +807,6 @@
 	<string name="isolines_toast_zooms_1_10">Збільште мапу, щоб побачити ізолінії</string>
 	<string name="downloader_updating_ios">Оновлення</string>
 	<string name="downloader_loading_ios">Завантаження</string>
-	<string name="key_information_title">Ключова інформація</string>
 	<string name="enable_screen_sleep">Дозволити екрану вимкнутись</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">При включенні екран може переходити в сплячий режим після певного періоду бездіяльності</string>

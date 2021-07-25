@@ -1052,8 +1052,6 @@
 
 "placepage_add_stop" = "Заехать";
 
-"preloader_viator_button" = "Посмотреть";
-
 "start_from_my_position" = "Начать от";
 
 "profile_authorization_error" = "Упс, произошла ошибка. Попробуйте авторизоваться повторно.";
@@ -1110,8 +1108,6 @@
 "phone_number" = "Номер телефона";
 
 "profile" = "Профиль OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Найти похожие отели";
 
 "bookmarks_detect_title" = "Обнаружены новые файлы";
 
@@ -1412,8 +1408,6 @@
 "downloader_updating_ios" = "Обновление";
 
 "downloader_loading_ios" = "Загрузка";
-
-"key_information_title" = "Ключевая информация";
 
 "download_map_title" = "Скачать карту мира";
 

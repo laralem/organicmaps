@@ -1037,8 +1037,6 @@
 
 "placepage_add_stop" = "Ara nokta ekle";
 
-"preloader_viator_button" = "Daha fazla bilgi edinin";
-
 "start_from_my_position" = "Buradan başla";
 
 "profile_authorization_error" = "Üzgünüz, bir hata oluştu. Tekrar oturum açmayı deneyin.";
@@ -1092,8 +1090,6 @@
 "phone_number" = "Telefon numarası";
 
 "profile" = "OpenStreetMap profil";
-
-"place_page_search_similar_hotel" = "Benzer otellerde ara";
 
 "bookmarks_detect_title" = "Yeni dosyalar algılandı";
 
@@ -1392,8 +1388,6 @@
 "downloader_updating_ios" = "Güncelleme";
 
 "downloader_loading_ios" = "İndir";
-
-"key_information_title" = "Anahtar bilgisi";
 
 "enable_screen_sleep" = "Ekranın uyumasına izin ver";
 

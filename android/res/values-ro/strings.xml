@@ -608,7 +608,6 @@
 	<string name="placepage_remove_stop">Eliminare</string>
 	<string name="planning_route_remove_title">Trageți aici pentru a elimina</string>
 	<string name="placepage_add_stop">Adăugare oprire</string>
-	<string name="preloader_viator_button">Află mai multe</string>
 	<string name="start_from_my_position">Începând de la</string>
 	<string name="profile_authorization_error">Ups, a survenit o eroare. Încercați să vă conectați din nou.</string>
 	<string name="dialog_error_storage_title">Problemă de accesare spațiu de stocare</string>
@@ -639,7 +638,6 @@
 	<string name="please_wait">Te rog asteapta…</string>
 	<string name="phone_number">Numar de telefon</string>
 	<string name="profile">Profil OpenStreetMap</string>
-	<string name="place_page_search_similar_hotel">Căutați hoteluri similare</string>
 	<string name="bookmarks_detect_title">Au fost detectate fișiere noi</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">%d fișier a fost găsit. Veți vedea după conversie.</item>
@@ -806,7 +804,6 @@
 	<string name="isolines_toast_zooms_1_10">Măriți harta pentru a vedea contururile</string>
 	<string name="downloader_updating_ios">Actualizare</string>
 	<string name="downloader_loading_ios">Încărcare</string>
-	<string name="key_information_title">Informații cheie</string>
 	<string name="enable_screen_sleep">Permiteți ecranului să doarmă</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Când este activat, ecranul va fi lăsat să doarmă după o perioadă de inactivitate.</string>

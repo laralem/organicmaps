@@ -1044,8 +1044,6 @@
 
 "placepage_add_stop" = "Adicionar parada";
 
-"preloader_viator_button" = "Saiba mais";
-
 "start_from_my_position" = "Iniciar a partir de";
 
 "profile_authorization_error" = "Ups, ocorreu um erro. Tente iniciar sessão novamente.";
@@ -1102,8 +1100,6 @@
 "phone_number" = "Número de telefone";
 
 "profile" = "Perfil do OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Buscar hotéis semelhantes";
 
 "bookmarks_detect_title" = "Novos arquivos detectados";
 
@@ -1404,8 +1400,6 @@
 "downloader_updating_ios" = "Atualizando";
 
 "downloader_loading_ios" = "Baixando";
-
-"key_information_title" = "Informação importante";
 
 "download_map_title" = "Baixar mapa mundial";
 

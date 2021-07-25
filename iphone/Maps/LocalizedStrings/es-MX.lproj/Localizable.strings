@@ -109,8 +109,6 @@
 
 "please_wait" = "Por favor, espere…";
 
-"place_page_search_similar_hotel" = "Buscar hoteles similares";
-
 "bookmarks_detect_title" = "Se detectaron archivos nuevos";
 
 "button_convert" = "Convertir";
@@ -406,8 +404,6 @@
 "downloader_updating_ios" = "Actualización";
 
 "downloader_loading_ios" = "Cargando";
-
-"key_information_title" = "Información clave";
 
 /* Autoupdate dialog on start */
 "whats_new_auto_update_title" = "Debe actualizar sus mapas descargados";

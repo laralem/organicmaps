@@ -67,7 +67,6 @@
 	<string name="bookmarks_error_message_list_name_already_taken">Por favor elige otro nombre</string>
 	<string name="bookmarks_error_title_list_name_too_long">Este nombre es demasiado largo</string>
 	<string name="please_wait">Por favor, espere…</string>
-	<string name="place_page_search_similar_hotel">Buscar hoteles similares</string>
 	<string name="bookmarks_detect_title">Se detectaron archivos nuevos</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">Se encontró %d archivo. Lo verás después de la conversión.</item>
@@ -233,7 +232,6 @@
 	<string name="isolines_toast_zooms_1_10">Amplíe el mapa para ver las isolíneas</string>
 	<string name="downloader_updating_ios">Actualización</string>
 	<string name="downloader_loading_ios">Cargando</string>
-	<string name="key_information_title">Información clave</string>
 	<!-- Autoupdate dialog on start -->
 	<string name="whats_new_auto_update_title">Debe actualizar sus mapas descargados</string>
 	<!-- Autoupdate dialog on start -->

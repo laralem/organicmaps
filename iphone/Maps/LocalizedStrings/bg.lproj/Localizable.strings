@@ -999,8 +999,6 @@
 
 "placepage_add_stop" = "Добавяне на спирка";
 
-"preloader_viator_button" = "Научете повече";
-
 "profile_authorization_error" = "За съжаление има грешка. Опитайте да влезете отново.";
 
 "dialog_error_storage_title" = "Проблем с достъпа до хранилището";
@@ -1051,8 +1049,6 @@
 "please_wait" = "Моля, изчакайте…";
 
 "profile" = "Профил в OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Търсене на сходни хотели";
 
 "bookmarks_detect_title" = "Открити са нови файлове";
 
@@ -1224,8 +1220,6 @@
 "elevation_profile_time" = "Време:";
 
 "isolines_toast_zooms_1_10" = "Увеличете мащаба, за да разгледате изолиниите";
-
-"key_information_title" = "Ключова информация";
 
 "download_map_title" = "Изтегляне на картата на света";
 

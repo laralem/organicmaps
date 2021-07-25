@@ -1043,8 +1043,6 @@
 
 "placepage_add_stop" = "Dodaj postój";
 
-"preloader_viator_button" = "Dowiedz się więcej";
-
 "start_from_my_position" = "Zacznij od";
 
 "profile_authorization_error" = "Ups, nastąpił błąd. Spróbuj zalogować się ponownie.";
@@ -1098,8 +1096,6 @@
 "phone_number" = "Numer telefonu";
 
 "profile" = "Profil OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Wyszukaj podobne hotele";
 
 "bookmarks_detect_title" = "Wykryto nowe pliki";
 
@@ -1398,8 +1394,6 @@
 "downloader_updating_ios" = "Aktualizacja";
 
 "downloader_loading_ios" = "Pobieranie";
-
-"key_information_title" = "Kluczowe informacje";
 
 "enable_screen_sleep" = "Pozwól ekranowi spać";
 

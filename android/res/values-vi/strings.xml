@@ -609,7 +609,6 @@
 	<string name="placepage_remove_stop">Xóa</string>
 	<string name="planning_route_remove_title">Kéo vào đây để xóa</string>
 	<string name="placepage_add_stop">Thêm điểm dừng</string>
-	<string name="preloader_viator_button">Tìm hiểu thêm</string>
 	<string name="start_from_my_position">Bắt đầu từ</string>
 	<string name="profile_authorization_error">Rất tiếc, đã có lỗi xảy ra. Hãy thử đăng nhập lại.</string>
 	<string name="dialog_error_storage_title">Vấn đề truy cập ổ lưu trữ</string>
@@ -640,7 +639,6 @@
 	<string name="please_wait">Vui lòng chờ…</string>
 	<string name="phone_number">Số điện thoại</string>
 	<string name="profile">Hồ sơ OpenStreetMap</string>
-	<string name="place_page_search_similar_hotel">Tìm kiếm khách sạn</string>
 	<string name="bookmarks_detect_title">Đã phát hiện tệp mới</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">%d dã tìm thấy một tệp. Bạn sẽ thấy nó sau khi chuyển đổi.</item>
@@ -807,7 +805,6 @@
 	<string name="isolines_toast_zooms_1_10">Phóng bản đồ để nhìn rõ đường đồng mức</string>
 	<string name="downloader_updating_ios">Cập nhật</string>
 	<string name="downloader_loading_ios">Tải xuống</string>
-	<string name="key_information_title">Thông tin chìa khóa</string>
 	<string name="enable_screen_sleep">Cho phép màn hình ở chế độ ngủ</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Khi được bật, màn hình sẽ được phép ở chế độ ngủ sau một thời gian không hoạt động.</string>

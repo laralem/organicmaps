@@ -1037,8 +1037,6 @@
 
 "placepage_add_stop" = "Lisää pysähdys";
 
-"preloader_viator_button" = "Lisätietoja";
-
 "start_from_my_position" = "Aloita kohdasta";
 
 "profile_authorization_error" = "Tapahtui virhe. Yritä kirjautua sisään uudelleen.";
@@ -1092,8 +1090,6 @@
 "phone_number" = "Puhelinnumero";
 
 "profile" = "OpenStreetMap-profiili";
-
-"place_page_search_similar_hotel" = "Etsi samanlaisia ​​hotelleja";
 
 "bookmarks_detect_title" = "Uusia tiedostoja havaittiin";
 
@@ -1392,8 +1388,6 @@
 "downloader_updating_ios" = "Päivitys";
 
 "downloader_loading_ios" = "Lataus";
-
-"key_information_title" = "Avaintietoa";
 
 "enable_screen_sleep" = "Anna näytön nukkua";
 

@@ -1016,8 +1016,6 @@
 
 "placepage_add_stop" = "Προσθήκη στάσης";
 
-"preloader_viator_button" = "Μάθετε περισσότερα";
-
 "start_from_my_position" = "Έναρξη από";
 
 "profile_authorization_error" = "Ωχ, παρουσιάστηκε σφάλμα. Προσπαθήστε να συνδεθείτε ξανά.";
@@ -1071,8 +1069,6 @@
 "phone_number" = "Τηλεφωνικό νούμερο";
 
 "profile" = "Προφίλ OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Αναζήτηση παρόμοιων ξενοδοχείων";
 
 "bookmarks_detect_title" = "Εντοπίστηκαν νέα αρχεία";
 
@@ -1371,8 +1367,6 @@
 "downloader_updating_ios" = "Ενημέρωση";
 
 "downloader_loading_ios" = "Φόρτωση";
-
-"key_information_title" = "Βασικές πληροφορίες";
 
 "enable_screen_sleep" = "Αφήστε την οθόνη να κοιμηθεί";
 

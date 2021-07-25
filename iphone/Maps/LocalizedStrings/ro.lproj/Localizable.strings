@@ -1035,8 +1035,6 @@
 
 "placepage_add_stop" = "Adăugare oprire";
 
-"preloader_viator_button" = "Află mai multe";
-
 "start_from_my_position" = "Începând de la";
 
 "profile_authorization_error" = "Ups, a survenit o eroare. Încercați să vă conectați din nou.";
@@ -1090,8 +1088,6 @@
 "phone_number" = "Numar de telefon";
 
 "profile" = "Profil OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Căutați hoteluri similare";
 
 "bookmarks_detect_title" = "Au fost detectate fișiere noi";
 
@@ -1390,8 +1386,6 @@
 "downloader_updating_ios" = "Actualizare";
 
 "downloader_loading_ios" = "Încărcare";
-
-"key_information_title" = "Informații cheie";
 
 "enable_screen_sleep" = "Permiteți ecranului să doarmă";
 

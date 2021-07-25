@@ -1031,8 +1031,6 @@
 
 "placepage_add_stop" = "Lägg till stopp";
 
-"preloader_viator_button" = "Läs mer";
-
 "start_from_my_position" = "Starta från";
 
 "profile_authorization_error" = "Hoppsan, ett fel har inträffat. Försök att logga in igen.";
@@ -1086,8 +1084,6 @@
 "phone_number" = "Telefonnummer";
 
 "profile" = "OpenStreetMap profil";
-
-"place_page_search_similar_hotel" = "Sök liknande hotell";
 
 "bookmarks_detect_title" = "Nya filer upptäcktes";
 
@@ -1386,8 +1382,6 @@
 "downloader_updating_ios" = "Uppdatering";
 
 "downloader_loading_ios" = "Nedladdning";
-
-"key_information_title" = "Nyckelinformation";
 
 "enable_screen_sleep" = "Låt skärmen sova";
 

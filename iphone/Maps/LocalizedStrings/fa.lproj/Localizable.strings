@@ -1015,8 +1015,6 @@
 
 "placepage_add_stop" = "اضافه کردن توقف";
 
-"preloader_viator_button" = "بیشتر بدانید";
-
 "start_from_my_position" = "شروع از";
 
 "profile_authorization_error" = "اوه، یک خطا وجود داشت سعی کنید دوباره وارد سیستم شوید";
@@ -1070,8 +1068,6 @@
 "phone_number" = "شماره تلفن";
 
 "profile" = "OpenStreetMap نمایه";
-
-"place_page_search_similar_hotel" = "جست‌وجوی هتل‌های مشابه";
 
 "bookmarks_detect_title" = "فایل‌های جدید پیدا شد";
 
@@ -1372,8 +1368,6 @@
 "downloader_updating_ios" = "در حال بروزرسانی";
 
 "downloader_loading_ios" = "در حال دانلود";
-
-"key_information_title" = "اطلاعات کلیدی";
 
 "enable_screen_sleep" = "اجازه دهید صفحه نمایش بخوابد";
 

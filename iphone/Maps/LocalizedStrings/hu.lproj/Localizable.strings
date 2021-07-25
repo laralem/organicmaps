@@ -1032,8 +1032,6 @@
 
 "placepage_add_stop" = "Hozzáad megállót";
 
-"preloader_viator_button" = "Tudjon meg többet";
-
 "start_from_my_position" = "Elkezdi innen:";
 
 "profile_authorization_error" = "Hoppá, volt egy hiba. Próbáljon meg újra bejelentkezni.";
@@ -1087,8 +1085,6 @@
 "phone_number" = "Telefonszám";
 
 "profile" = "OpenStreetMap profil";
-
-"place_page_search_similar_hotel" = "Hasonló szálláshelyek keresése";
 
 "bookmarks_detect_title" = "Új fájlokat észleltek";
 
@@ -1387,8 +1383,6 @@
 "downloader_updating_ios" = "Feltöltés";
 
 "downloader_loading_ios" = "Letöltés";
-
-"key_information_title" = "Kulcs információ";
 
 "enable_screen_sleep" = "Hagyja aludni a képernyőt";
 

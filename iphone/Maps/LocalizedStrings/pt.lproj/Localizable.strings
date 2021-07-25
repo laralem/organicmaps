@@ -1048,8 +1048,6 @@
 
 "placepage_add_stop" = "Adicionar paragem";
 
-"preloader_viator_button" = "Saber mais";
-
 "start_from_my_position" = "Iniciar a partir de";
 
 "profile_authorization_error" = "Ups, ocorreu um erro. Tente iniciar sessão novamente.";
@@ -1106,8 +1104,6 @@
 "phone_number" = "Número de telefone";
 
 "profile" = "Perfil no OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Pesquisar hotéis semelhantes";
 
 "bookmarks_detect_title" = "Foram detetados novos ficheiros";
 
@@ -1408,8 +1404,6 @@
 "downloader_updating_ios" = "A atualizar";
 
 "downloader_loading_ios" = "A descarregar";
-
-"key_information_title" = "Informação importante";
 
 "download_map_title" = "Descarregar o mapa mundial";
 

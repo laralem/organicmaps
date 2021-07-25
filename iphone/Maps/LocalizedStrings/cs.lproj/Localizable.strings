@@ -1034,8 +1034,6 @@
 
 "placepage_add_stop" = "Přidat zastávku";
 
-"preloader_viator_button" = "Zjistit více";
-
 "start_from_my_position" = "Začít z";
 
 "profile_authorization_error" = "Jejda, došlo k chybě. Zkuste se přihlásit znovu.";
@@ -1089,8 +1087,6 @@
 "phone_number" = "Telefonní číslo";
 
 "profile" = "Profil OpenStreetMap";
-
-"place_page_search_similar_hotel" = "Hledat podobné hotely";
 
 "bookmarks_detect_title" = "Byly zjištěny nové soubory";
 
@@ -1389,8 +1385,6 @@
 "downloader_updating_ios" = "Probíhá aktualizace";
 
 "downloader_loading_ios" = "Probíhá stahování";
-
-"key_information_title" = "Klíčové informace";
 
 "enable_screen_sleep" = "Nechte obrazovku spát";
 

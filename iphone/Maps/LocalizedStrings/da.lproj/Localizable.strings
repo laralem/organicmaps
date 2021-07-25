@@ -1037,8 +1037,6 @@
 
 "placepage_add_stop" = "Tilføj stop";
 
-"preloader_viator_button" = "Flere oplysninger";
-
 "start_from_my_position" = "Start fra";
 
 "profile_authorization_error" = "Ups, der skete en fejl. Prøv at logge på igen.";
@@ -1092,8 +1090,6 @@
 "phone_number" = "Telefonnummer";
 
 "profile" = "OpenStreetMap profil";
-
-"place_page_search_similar_hotel" = "Søg lignende hoteller";
 
 "bookmarks_detect_title" = "Nye filer registreret";
 
@@ -1392,8 +1388,6 @@
 "downloader_updating_ios" = "Opdaterer";
 
 "downloader_loading_ios" = "Downloader";
-
-"key_information_title" = "Central information";
 
 "enable_screen_sleep" = "Lad skærmen sove";
 

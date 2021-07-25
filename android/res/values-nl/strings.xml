@@ -604,7 +604,6 @@
 	<string name="placepage_remove_stop">Verwijderen</string>
 	<string name="planning_route_remove_title">Sleep hier om te verwijderen</string>
 	<string name="placepage_add_stop">Tussenstop toevoegen</string>
-	<string name="preloader_viator_button">Meer leren</string>
 	<string name="start_from_my_position">Start vanaf</string>
 	<string name="profile_authorization_error">Oeps, er is een fout opgetreden. Probeer opnieuw aan te melden.</string>
 	<string name="dialog_error_storage_title">Probleem met opslagtoegang</string>
@@ -635,7 +634,6 @@
 	<string name="please_wait">Even geduld aub…</string>
 	<string name="phone_number">Telefoonnummer</string>
 	<string name="profile">OpenStreetMap-profiel</string>
-	<string name="place_page_search_similar_hotel">Zoek vergelijkbare hotels</string>
 	<string name="bookmarks_detect_title">Nieuwe bestanden gedetecteerd</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">%d bestand gevonden. Je ziet het na het converteren.</item>
@@ -802,7 +800,6 @@
 	<string name="isolines_toast_zooms_1_10">Zoom in om isolijnen te bekijken</string>
 	<string name="downloader_updating_ios">Updaten</string>
 	<string name="downloader_loading_ios">Downloaden</string>
-	<string name="key_information_title">Belangrijke informatie</string>
 	<string name="enable_screen_sleep">Laat het scherm slapen</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Indien ingeschakeld, mag het scherm slapen na een periode van inactiviteit.</string>

@@ -609,7 +609,6 @@
 	<string name="placepage_remove_stop">Fjern</string>
 	<string name="planning_route_remove_title">Træk herhen for at fjerne</string>
 	<string name="placepage_add_stop">Tilføj stop</string>
-	<string name="preloader_viator_button">Flere oplysninger</string>
 	<string name="start_from_my_position">Start fra</string>
 	<string name="profile_authorization_error">Ups, der skete en fejl. Prøv at logge på igen.</string>
 	<string name="dialog_error_storage_title">Problem med lageradgang</string>
@@ -640,7 +639,6 @@
 	<string name="please_wait">Vent venligst…</string>
 	<string name="phone_number">Telefonnummer</string>
 	<string name="profile">OpenStreetMap profil</string>
-	<string name="place_page_search_similar_hotel">Søg lignende hoteller</string>
 	<string name="bookmarks_detect_title">Nye filer registreret</string>
 	<plurals name="bookmarks_detect_message">
 	  <item quantity="one">%d fil blev fundet. Du vil se det efter konvertering.</item>
@@ -807,7 +805,6 @@
 	<string name="isolines_toast_zooms_1_10">Zoom ind for at udforske isolinjekort</string>
 	<string name="downloader_updating_ios">Opdaterer</string>
 	<string name="downloader_loading_ios">Downloader</string>
-	<string name="key_information_title">Central information</string>
 	<string name="enable_screen_sleep">Lad skærmen sove</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Når den er aktiveret, får skærmen lov til at sove efter en periode med inaktivitet.</string>
