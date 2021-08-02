@@ -92,10 +92,10 @@
       </FileRef>
    </Group>
    <FileRef
-      location = "container:ge0/ge0.xcodeproj">
+      location = "container:base/base.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:base/base.xcodeproj">
+      location = "container:ge0/ge0.xcodeproj">
    </FileRef>
    <FileRef
       location = "container:coding/coding.xcodeproj">

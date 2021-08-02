@@ -806,8 +806,6 @@
 		394916941BAC3A5F002A8C4F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				INFOPLIST_FILE = "$(OMIM_ROOT)/iphone/Maps/OMaps.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -820,8 +818,6 @@
 		394916951BAC3A5F002A8C4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				INFOPLIST_FILE = "$(OMIM_ROOT)/iphone/Maps/OMaps.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
