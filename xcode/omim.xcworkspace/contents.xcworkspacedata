@@ -116,9 +116,6 @@
       location = "container:generator/generator.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:generator_tool/generator_tool.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "container:geometry/geometry.xcodeproj">
    </FileRef>
    <FileRef

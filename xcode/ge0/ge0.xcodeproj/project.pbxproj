@@ -13,8 +13,6 @@
 		391A146023E0FC8700A448F4 /* libbase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 391A145F23E0FC8700A448F4 /* libbase.a */; };
 		391A146223E0FC8B00A448F4 /* liboauthcpp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 391A146123E0FC8B00A448F4 /* liboauthcpp.a */; };
 		391A146623E0FC9A00A448F4 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 391A146523E0FC9A00A448F4 /* libz.tbd */; };
-		391A146823E0FC9E00A448F4 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 391A146723E0FC9E00A448F4 /* Security.framework */; };
-		391A146A23E0FCB700A448F4 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 391A146923E0FCB700A448F4 /* CoreLocation.framework */; };
 		39C29BD023E19B3C009ECB47 /* parser.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 39C29BCC23E19B3C009ECB47 /* parser.hpp */; };
 		39C29BD123E19B3C009ECB47 /* parser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39C29BCD23E19B3C009ECB47 /* parser.cpp */; };
 		39C29BD223E19B3C009ECB47 /* url_generator.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 39C29BCE23E19B3C009ECB47 /* url_generator.hpp */; };
@@ -33,8 +31,6 @@
 		391A145F23E0FC8700A448F4 /* libbase.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libbase.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		391A146123E0FC8B00A448F4 /* liboauthcpp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = liboauthcpp.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		391A146523E0FC9A00A448F4 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
-		391A146723E0FC9E00A448F4 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
-		391A146923E0FCB700A448F4 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		39C29BCC23E19B3C009ECB47 /* parser.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = parser.hpp; path = ../../ge0/parser.hpp; sourceTree = "<group>"; };
 		39C29BCD23E19B3C009ECB47 /* parser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = parser.cpp; path = ../../ge0/parser.cpp; sourceTree = "<group>"; };
 		39C29BCE23E19B3C009ECB47 /* url_generator.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = url_generator.hpp; path = ../../ge0/url_generator.hpp; sourceTree = "<group>"; };
@@ -50,8 +46,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				391A146A23E0FCB700A448F4 /* CoreLocation.framework in Frameworks */,
-				391A146823E0FC9E00A448F4 /* Security.framework in Frameworks */,
 				391A146623E0FC9A00A448F4 /* libz.tbd in Frameworks */,
 				391A146223E0FC8B00A448F4 /* liboauthcpp.a in Frameworks */,
 				391A146023E0FC8700A448F4 /* libbase.a in Frameworks */,
@@ -74,8 +68,6 @@
 		391A145A23E0FC7F00A448F4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				391A146923E0FCB700A448F4 /* CoreLocation.framework */,
-				391A146723E0FC9E00A448F4 /* Security.framework */,
 				391A146523E0FC9A00A448F4 /* libz.tbd */,
 				391A146123E0FC8B00A448F4 /* liboauthcpp.a */,
 				391A145F23E0FC8700A448F4 /* libbase.a */,
@@ -241,8 +233,7 @@
 		3496AB8A1DC1F6CE00C5DDBA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				PRODUCT_BUNDLE_IDENTIFIER = maps.me.ge0_tests;
+				PRODUCT_BUNDLE_IDENTIFIER = apps.organicmaps.ge0_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -250,8 +241,7 @@
 		3496AB8B1DC1F6CE00C5DDBA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				PRODUCT_BUNDLE_IDENTIFIER = maps.me.ge0_tests;
+				PRODUCT_BUNDLE_IDENTIFIER = apps.organicmaps.ge0_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
