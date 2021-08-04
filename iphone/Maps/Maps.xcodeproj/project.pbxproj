@@ -1093,7 +1093,7 @@
 		47A13CA624BE874D00027D4F /* DatePicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = DatePicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		47A13CAC24BE9AA500027D4F /* DatePickerViewRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerViewRenderer.swift; sourceTree = "<group>"; };
 		47A65CAC2350044800DCD85F /* CoreApi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = CoreApi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		47AEF83F2231249E00D20538 /* categories_brands.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = categories_brands.txt; path = ../../data/categories_brands.txt; sourceTree = "<group>"; };
+		47AEF83F2231249E00D20538 /* categories_brands.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = categories_brands.txt; sourceTree = "<group>"; };
 		47B9064921C7FA3B0079C85E /* MWMWebImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MWMWebImage.m; sourceTree = "<group>"; };
 		47B9064A21C7FA3C0079C85E /* MWMImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MWMImageCache.m; sourceTree = "<group>"; };
 		47B9064B21C7FA3C0079C85E /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
@@ -1727,7 +1727,6 @@
 		29B97314FDCFA39411CA2CEA /* Maps */ = {
 			isa = PBXGroup;
 			children = (
-				47AEF83F2231249E00D20538 /* categories_brands.txt */,
 				FA36B8011540388B004560CC /* Bookmarks */,
 				3454D7981E07F045004AF2AD /* Categories */,
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -3571,8 +3570,9 @@
 				EEA615E9134C4968003A9827 /* 05_khmeros.ttf */,
 				EE164810135CEE49003B8A3E /* 06_code2000.ttf */,
 				FAF30A94173AB23900818BF6 /* 07_roboto_medium.ttf */,
-				FAAFD696139D9BE2000AE70C /* categories.txt */,
+				47AEF83F2231249E00D20538 /* categories_brands.txt */,
 				408645FB21495EB1000A4A1D /* categories_cuisines.txt */,
+				FAAFD696139D9BE2000AE70C /* categories.txt */,
 				EE026F0511D6AC0D00645242 /* classificator.txt */,
 				452FCA3A1B6A3DF7007019AB /* colors.txt */,
 				97A5967E19B9CD47007A963F /* copyright.html */,
