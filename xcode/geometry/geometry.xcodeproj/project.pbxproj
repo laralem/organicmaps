@@ -631,13 +631,11 @@
 		670F29611BA9D39A00F2ABF4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"OMIM_UNIT_TEST_DISABLE_PLATFORM_INIT=1",
 				);
-				INFOPLIST_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = maps.me.geometry_tests;
+				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps.geometry_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -645,13 +643,11 @@
 		670F29621BA9D39A00F2ABF4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"OMIM_UNIT_TEST_DISABLE_PLATFORM_INIT=1",
 				);
-				INFOPLIST_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = maps.me.geometry_tests;
+				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps.geometry_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
