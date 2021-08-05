@@ -140,7 +140,7 @@
       location = "container:platform/platform.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:qtMapsMe/qtMapsMe.xcodeproj">
+      location = "container:qt/qt.xcodeproj">
    </FileRef>
    <FileRef
       location = "container:routing/routing.xcodeproj">
@@ -161,10 +161,10 @@
       location = "container:storage/storage.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:traffic/traffic.xcodeproj">
+      location = "container:tracking/tracking.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:tracking/tracking.xcodeproj">
+      location = "container:traffic/traffic.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:transit/transit.xcodeproj">

@@ -320,16 +320,12 @@
 		45E455FC20584DCC00D9F45E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				INFOPLIST_FILE = "";
 			};
 			name = Debug;
 		};
 		45E455FD20584DCC00D9F45E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				INFOPLIST_FILE = "";
 			};
 			name = Release;
 		};

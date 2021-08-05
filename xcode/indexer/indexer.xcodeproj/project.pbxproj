@@ -1052,8 +1052,7 @@
 		670C612A1AB0661100C38A8C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "maps.me.indexer-tests";
+				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps.indexer_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1061,8 +1060,7 @@
 		670C612B1AB0661100C38A8C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "maps.me.indexer-tests";
+				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps.indexer_tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
